@@ -10,3 +10,10 @@ Congratulations on making it through the first phase of Lambda School!  For this
 * Your web application must have multiple pages.
 * Your application needs to have users.  There will be pages for registering and signing in and protected content.
 * Other than these key points your project can be anything that you would like.
+
+
+## Assignment
+
+* Come up with an idea for a full-stack application.  If you're having a hard time thinking of something you can simply rebuild an existing application that you like.
+* Message your instructor a project proposal.  Your instructor will provide feedback and tweak your idea if necessary.
+* Begin hacking!
